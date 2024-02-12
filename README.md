@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/SarthkK/Blog-preview-card)]
-- Live Site URL: [(https://your-live-site-url.com)]
+- Live Site URL: [(https://fanciful-croissant-a4445e.netlify.app)]
 
 ## My process
 
